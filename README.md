@@ -21,3 +21,6 @@ This project is a prototype for a smart thermostat developed using Embedded C an
 2. Open the project in Code Composer 10.1.1.
 3. Build the code onto the TI Development Board.
 4. Monitor and adjust the thermostat settings using the buttons and LED feedback.
+
+## Contributing
+Feel free to open issues or submit pull requests. Contributions are welcome!
